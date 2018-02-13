@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518473924 source:c:\users\maciek\desktop\spoj.com\wooow\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+
